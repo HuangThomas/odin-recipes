@@ -1,3 +1,3 @@
 # odin-recipes
 
-basic Git and foundamental HTML skill
+Basic Git and foundamental HTML skill to build a webpage with three recipes.
